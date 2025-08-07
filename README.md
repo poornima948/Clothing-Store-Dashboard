@@ -7,7 +7,7 @@ This project presents a dynamic and interactive Excel dashboard analyzing sales,
 
 To analyze sales performance, customer demographics, and order distribution across platforms and regions to assist in strategic decision-making.
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
@@ -32,9 +32,9 @@ To analyze sales performance, customer demographics, and order distribution acro
 - **Top 10 States by Sales**: Bar chart highlighting leading regions.
 - **Orders by Channels**: Platform-wise order share (Amazon, Flipkart, Meesho, etc.)
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 
-![Dashboard Preview](<img width="1618" height="660" alt="Screenshot 2025-08-07 234949" src="https://github.com/user-attachments/assets/3daeaa6d-d631-4633-b7e4-6df9dfeab760" />
+[Dashboard Preview]<img width="1618" height="660" alt="Screenshot 2025-08-07 234949" src="https://github.com/user-attachments/assets/3daeaa6d-d631-4633-b7e4-6df9dfeab760" />
 
 ###  Key Insights:
 -  Women are more likely to buy compared to men (~65%)<img width="743" height="399" alt="image" src="https://github.com/user-attachments/assets/8b6d3733-6fcc-4946-9e25-98ce426adad0" />
