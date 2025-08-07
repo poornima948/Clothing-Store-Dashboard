@@ -48,9 +48,9 @@ To analyze sales performance, customer demographics, and order distribution acro
 
 ---
 
-### 🎯 Final Conclusion to Improve Sales:
+###  Final Conclusion to Improve Sales:
 
-> 📢 **Target women customers** of age group **30–49 years** living in  
+>  **Target women customers** of age group **30–49 years** living in  
 > **Maharashtra, Karnataka, and Uttar Pradesh**  
 > by showing **ads/offers/coupons** available on  
 > **Amazon, Flipkart, and Myntra**.
@@ -59,14 +59,14 @@ To analyze sales performance, customer demographics, and order distribution acro
 
 
 
-## 💡 What I Learned
+##  What I Learned
 
 - Dashboard storytelling with Excel
 - Creating responsive and filterable reports using slicers
 - Analyzing multi-dimensional data using pivot tools
 - Best practices in layout and design for executive dashboards
 
-## 📎 Use Cases
+##  Use Cases
 
 - Business Analyst Portfolios
 - E-commerce data storytelling
